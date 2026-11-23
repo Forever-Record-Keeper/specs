@@ -3,9 +3,8 @@
 This repo contains the plans for Forever Record Keeper.
 It contains no product code.
 
-The other repos of the project implement these plans:
-`app`, `addon`, `docs` and the website.
-The [organization profile](https://github.com/Forever-Record-Keeper) lists them.
+The other repos of the project implement these plans.
+The [repo list of the organization](https://github.com/orgs/Forever-Record-Keeper/repositories) shows them.
 
 ## How work flows
 
@@ -24,6 +23,11 @@ The [contributing guide](https://github.com/Forever-Record-Keeper/.github/blob/m
 ## Sources
 
 [PROVENANCE.md](PROVENANCE.md) lists the sources of tools, formats and ideas, with their licenses.
+
+## Decisions and terms
+
+- `decisions/` holds the decision records. [decisions/README.md](decisions/README.md) lists them.
+- `glossary.md` lists the terms of the project, with 1 word for each concept.
 
 ## License
 

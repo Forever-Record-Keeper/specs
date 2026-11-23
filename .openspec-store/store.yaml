@@ -1,0 +1,3 @@
+version: 1
+id: forever-record-keeper
+remote: https://github.com/Forever-Record-Keeper/specs.git

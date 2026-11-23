@@ -1,2 +1,4 @@
 # Vale writes the synced packages here.
 /.vale/
+
+/node_modules/

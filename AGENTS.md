@@ -6,7 +6,9 @@ This repo contains the plans for Forever Record Keeper. It contains no product c
 
 - Write in plain English and US spelling.
   The rules are in the contributing guide of the `.github` repo.
-- Run `vale .` before each commit. It must report no errors.
+- Run `vale .` and `pnpm run validate` before each commit. Both must report no errors.
+- Set `OPENSPEC_TELEMETRY=0` for every OpenSpec command.
+- `openspec/config.yaml` holds the rules for proposals, specs and tasks. Follow them.
 - Commit messages and PR titles follow Conventional Commits.
 - Don't commit to `main`. Open a PR for every change.
 - Don't copy text from a source without a license that allows it.

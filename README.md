@@ -16,10 +16,35 @@ A small fix that stays in 1 repo skips this repo.
 
 The [contributing guide](https://github.com/Forever-Record-Keeper/.github/blob/main/CONTRIBUTING.md) explains both ways in detail.
 
+## The OpenSpec store
+
+This repo is an [OpenSpec](https://github.com/Fission-AI/OpenSpec) store with the name `forever-record-keeper`.
+OpenSpec stores are a beta feature.
+
+- `openspec/specs/` holds the living specs, 1 folder for each capability.
+- `openspec/changes/` holds the changes in progress, and `openspec/changes/archive/` the finished ones.
+- `.openspec-store/store.yaml` gives the store its name.
+
+Each code repo points to this store with 1 line in its `openspec/config.yaml`: `store: forever-record-keeper`.
+
+### Set up your machine
+
+You need Node.js 26 and the pnpm version in `package.json`.
+Clone this repo next to the other repos of the project, then run these commands in it:
+
+```bash
+pnpm install
+pnpm exec openspec store register . --id forever-record-keeper
+```
+
+OpenSpec sends anonymous usage data by default.
+To turn this off, run `pnpm exec openspec config set telemetry.enabled false`, or set `OPENSPEC_TELEMETRY=0`.
+
 ## Checks
 
 - Vale checks all text against the plain English rules of the project.
   Run `vale sync` once, then `vale .`.
+- OpenSpec checks the structure of all specs and changes: `pnpm run validate`.
 
 ## Sources
 

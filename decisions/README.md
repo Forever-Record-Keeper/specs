@@ -45,3 +45,5 @@ Each record has these parts:
 | [0025](0025-github-hosted-runners.md) | GitHub-hosted runners | 2026-11-24 |
 | [0026](0026-starlight-for-the-docs.md) | Starlight for the docs | 2026-11-24 |
 | [0027](0027-strict-en-us-dictionary-for-spelling.md) | Strict `en_US` dictionary for spelling | 2026-11-23 |
+| [0028](0028-shared-tooling-as-an-npm-package.md) | Shared tooling as an npm package | 2026-11-24 |
+| [0029](0029-typescript-6-0-for-now.md) | TypeScript 6.0 for now | 2026-11-24 |

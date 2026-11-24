@@ -4,8 +4,9 @@ context: |
   Forever Record Keeper records sessions of World of Warcraft Forever with OBS Studio.
   It tags each recording from the combat log and the chat log of the game.
   A library on the local network plays the video next to the log.
-  This store holds the plans. The code repos are app (Electron, TypeScript, React),
-  addon (Lua), docs (Starlight) and the website (Astro).
+  This store holds the plans. The other repos of the GitHub organization
+  Forever-Record-Keeper implement them. Run `gh repo list Forever-Record-Keeper`
+  for the current repos. The AGENTS.md of each repo describes its stack.
   Write in plain US English: 1 idea per sentence, 25 words or fewer, active voice.
   Use the terms of glossary.md in the root of this repo.
 

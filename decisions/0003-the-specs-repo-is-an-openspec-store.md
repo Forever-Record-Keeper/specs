@@ -1,7 +1,6 @@
 # 0003. The specs repo is an OpenSpec store
 
-- Status: accepted
-- Date: 2026-11-23
+Date: 2026-11-23
 
 ## Decision
 

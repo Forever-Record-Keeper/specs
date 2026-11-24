@@ -1,7 +1,6 @@
 # 0029. TypeScript 6.0 for now
 
-- Status: accepted
-- Date: 2026-11-24
+Date: 2026-11-24
 
 ## Decision
 

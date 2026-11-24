@@ -1,7 +1,6 @@
 # 0009. Strict checks from day one
 
-- Status: accepted
-- Date: 2026-11-23
+Date: 2026-11-23
 
 ## Decision
 

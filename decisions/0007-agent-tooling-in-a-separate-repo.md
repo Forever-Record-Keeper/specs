@@ -1,7 +1,6 @@
 # 0007. Agent tooling in a separate repo
 
-- Status: accepted
-- Date: 2026-11-23
+Date: 2026-11-23
 
 ## Decision
 

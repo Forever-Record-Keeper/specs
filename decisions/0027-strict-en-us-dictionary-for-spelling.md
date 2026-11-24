@@ -1,7 +1,6 @@
 # 0027. Strict `en_US` dictionary for spelling
 
-- Status: accepted
-- Date: 2026-11-23
+Date: 2026-11-23
 
 ## Decision
 

@@ -12,7 +12,7 @@ Git keeps the earlier versions.
 Each record has these parts:
 
 - A title line with the number and the title.
-- A list with the status and the date.
+- A line with the date of the decision.
 - Decision: what the project does.
 - Reason: why the project does it.
 - Consequences: what follows from the decision, with the costs.

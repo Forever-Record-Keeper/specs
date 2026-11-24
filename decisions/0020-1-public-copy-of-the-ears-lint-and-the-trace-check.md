@@ -1,7 +1,6 @@
 # 0020. 1 public copy of the EARS lint and the trace check
 
-- Status: accepted
-- Date: 2026-11-23
+Date: 2026-11-23
 
 ## Decision
 

@@ -1,7 +1,6 @@
 # 0017. Conventional Commits for commit messages and PR titles
 
-- Status: accepted
-- Date: 2026-11-23
+Date: 2026-11-23
 
 ## Decision
 

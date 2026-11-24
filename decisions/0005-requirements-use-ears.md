@@ -1,7 +1,6 @@
 # 0005. Requirements use EARS
 
-- Status: accepted
-- Date: 2026-11-23
+Date: 2026-11-23
 
 ## Decision
 

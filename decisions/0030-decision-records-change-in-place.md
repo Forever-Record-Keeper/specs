@@ -1,7 +1,6 @@
 # 0030. Decision records change in place
 
-- Status: accepted
-- Date: 2026-11-24
+Date: 2026-11-24
 
 ## Decision
 
@@ -10,6 +9,7 @@ The record keeps its number and gets a line in its Changes part, with the date, 
 To drop a decision, a PR deletes its record.
 The project doesn't use the number of a deleted record again.
 Git keeps the earlier versions of each record.
+Each record in the folder is in force, so a record has no status.
 
 ## Reason
 

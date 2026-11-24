@@ -1,7 +1,6 @@
 # 0010. 2 ways to change the project
 
-- Status: accepted
-- Date: 2026-11-23
+Date: 2026-11-23
 
 ## Decision
 

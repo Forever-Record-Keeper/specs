@@ -1,7 +1,6 @@
 # 0026. Starlight for the docs
 
-- Status: accepted
-- Date: 2026-11-24
+Date: 2026-11-24
 
 ## Decision
 

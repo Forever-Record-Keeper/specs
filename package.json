@@ -1,0 +1,16 @@
+{
+  "name": "@forever-record-keeper/specs",
+  "private": true,
+  "description": "Plans, requirements and decisions of Forever Record Keeper",
+  "license": "MIT",
+  "packageManager": "pnpm@12.23.0",
+  "engines": {
+    "node": "^26"
+  },
+  "scripts": {
+    "validate": "openspec validate --all --strict --no-interactive"
+  },
+  "devDependencies": {
+    "@fission-ai/openspec": "2.1.1"
+  }
+}

@@ -1,8 +1,11 @@
 # Decision records
 
 A decision record states 1 decision of the project and the reason for it.
-The project numbers the records from 0001 on and keeps each record in the folder.
-A later record can replace an earlier one, and the earlier record then gets the line `Status: replaced by 00NN`.
+The project numbers the records from 0001 on and keeps them in this folder.
+To change a decision, a PR edits its record (see 0030).
+To drop a decision, a PR deletes its record.
+The project doesn't use the number of a deleted record again.
+Git keeps the earlier versions.
 
 ## Format
 
@@ -13,6 +16,8 @@ Each record has these parts:
 - Decision: what the project does.
 - Reason: why the project does it.
 - Consequences: what follows from the decision, with the costs.
+- Changes: 1 line for each change of the decision, with the date, the PR and the reason.
+  A record gets this part with its first change.
 
 ## Index
 
@@ -47,4 +52,4 @@ Each record has these parts:
 | [0027](0027-strict-en-us-dictionary-for-spelling.md) | Strict `en_US` dictionary for spelling | 2026-11-23 |
 | [0028](0028-shared-tooling-as-an-npm-package.md) | Shared tooling as an npm package | 2026-11-24 |
 | [0029](0029-typescript-6-0-for-now.md) | TypeScript 6.0 for now | 2026-11-24 |
-| [0030](0030-strict-checks-with-sections-for-tests.md) | Strict checks, with sections for tests | 2026-11-24 |
+| [0030](0030-decision-records-change-in-place.md) | Decision records change in place | 2026-11-24 |

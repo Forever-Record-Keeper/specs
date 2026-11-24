@@ -13,7 +13,8 @@ This repo contains the plans for Forever Record Keeper. It contains no product c
   Record each new source in `PROVENANCE.md`.
 - Use the terms of `glossary.md`. Add a new term there before you use it.
 - Record each new decision in `decisions/`, in the format of `decisions/README.md`.
-  Never change the decision of an accepted record. Write a new record that replaces it.
+  To change a decision, edit its record and add a line to its Changes part.
+  Don't write a second record on the same topic.
 
 ## Review
 

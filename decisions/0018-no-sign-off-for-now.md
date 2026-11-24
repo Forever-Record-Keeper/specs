@@ -16,4 +16,3 @@ The sign-off matters when people outside the project contribute.
 ## Consequences
 
 - Commits have no `Signed-off-by` line.
-- A later record adds the sign-off and replaces this record.

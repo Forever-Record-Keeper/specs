@@ -14,4 +14,4 @@ Share-alike terms don't fit the MIT License of the project.
 
 ## Consequences
 
-- A move to version 3.0 needs a new record that replaces this record.
+- The project stays on version 2.1 as long as version 3.0 uses share-alike terms.

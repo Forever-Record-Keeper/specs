@@ -1,6 +1,6 @@
 # 0009. Strict checks from day one
 
-- Status: accepted
+- Status: replaced by 0030
 - Date: 2026-11-23
 
 ## Decision

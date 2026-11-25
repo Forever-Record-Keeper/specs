@@ -51,7 +51,7 @@ To turn this off, run `pnpm exec openspec config set telemetry.enabled false`, o
 
 ## Decisions and terms
 
-- `decisions/` holds the decision records. [decisions/README.md](decisions/README.md) lists them.
+- [`decisions/`](decisions) holds the decision records. [decisions/README.md](decisions/README.md) explains their format.
 - `glossary.md` lists the terms of the project, with 1 word for each concept.
 
 ## License

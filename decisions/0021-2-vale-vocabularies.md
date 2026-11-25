@@ -1,7 +1,6 @@
 # 0021. 2 Vale vocabularies
 
-- Status: accepted
-- Date: 2026-11-23
+Date: 2026-11-23
 
 ## Decision
 

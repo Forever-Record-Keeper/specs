@@ -1,7 +1,6 @@
 # 0011. Coordinator and worker sessions
 
-- Status: accepted
-- Date: 2026-11-23
+Date: 2026-11-23
 
 ## Decision
 

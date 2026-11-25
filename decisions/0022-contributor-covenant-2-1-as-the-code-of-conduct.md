@@ -1,7 +1,6 @@
 # 0022. Contributor Covenant 2.1 as the code of conduct
 
-- Status: accepted
-- Date: 2026-11-23
+Date: 2026-11-23
 
 ## Decision
 

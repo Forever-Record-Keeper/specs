@@ -1,7 +1,6 @@
 # 0006. Plain US English
 
-- Status: accepted
-- Date: 2026-11-23
+Date: 2026-11-23
 
 ## Decision
 

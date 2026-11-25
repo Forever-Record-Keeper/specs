@@ -1,7 +1,6 @@
 # 0008. Human review where it counts
 
-- Status: accepted
-- Date: 2026-11-23
+Date: 2026-11-23
 
 ## Decision
 

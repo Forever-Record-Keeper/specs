@@ -1,7 +1,6 @@
 # 0028. Shared tooling as an npm package
 
-- Status: accepted
-- Date: 2026-11-24
+Date: 2026-11-24
 
 ## Decision
 

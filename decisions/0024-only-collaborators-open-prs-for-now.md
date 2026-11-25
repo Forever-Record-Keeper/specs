@@ -1,7 +1,6 @@
 # 0024. Only collaborators open PRs for now
 
-- Status: accepted
-- Date: 2026-11-23
+Date: 2026-11-23
 
 ## Decision
 

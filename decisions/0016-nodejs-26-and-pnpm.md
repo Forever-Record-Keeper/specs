@@ -1,7 +1,6 @@
 # 0016. Node.js 26 and pnpm
 
-- Status: accepted
-- Date: 2026-11-23
+Date: 2026-11-23
 
 ## Decision
 

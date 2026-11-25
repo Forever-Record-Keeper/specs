@@ -11,6 +11,7 @@ This repo contains the plans for Forever Record Keeper. It contains no product c
 - `openspec/config.yaml` holds the rules for proposals, specs and tasks. Follow them.
 - Commit messages and PR titles follow Conventional Commits.
 - Don't commit to `main`. Open a PR for every change.
+  Start each PR from `main` and target `main`, as decision 0031 explains.
 - Don't copy text from a source without a license that allows it.
   Record each new source in `PROVENANCE.md`.
 - Use the terms of `glossary.md`. Add a new term there before you use it.

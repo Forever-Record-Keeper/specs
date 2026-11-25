@@ -107,6 +107,7 @@ In a requirement, the system is always 1 of these terms.
 | requirement | 1 sentence in an EARS pattern with SHALL. | `user story` |
 | scenario | An example of a requirement with GIVEN, WHEN and THEN, named with its scenario ID. | `test case` |
 | scenario ID | The ID of a scenario, such as `REC-01`. The Gherkin scenario has it as a tag. | |
+| stacked PR | A PR in a chain of PRs on GitHub. Each PR in the chain targets the branch of the PR below it, and GitHub merges the chain into `main`. | `dependent PR` |
 | store | The OpenSpec store `forever-record-keeper`, which is the `specs` repo. | |
 
 <!-- vale FRK.Spelling = YES -->
